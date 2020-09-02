@@ -1,4 +1,4 @@
-class AskGit < Formula
+class Askgit < Formula
     desc "Query git repositories with SQL. Generate reports, perform status checks, analyze codebases. 🔍 📊"
     homepage "https://askgit.com"
     license "MIT"
