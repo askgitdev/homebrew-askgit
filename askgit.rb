@@ -11,6 +11,6 @@ class Askgit < Formula
 
   def install
     system "make"
-    bin.install ".builld/askgit"
+    bin.install ".build/askgit"
   end
 end
