@@ -1,9 +1,9 @@
 class Askgit < Formula
   desc "Query git repositories with SQL. Generate reports, perform status checks, analyze codebases. 🔍 📊"
   homepage "https://askgit.com"
-  version "v0.4.6"
-  url "https://github.com/augmentable-dev/askgit/archive/v0.4.6.tar.gz"
-  sha256 "e1298736cd4c6f92b7cdaf752044d2baaa212b160d653409096ed14ba0104d63"
+  version "v0.4.7"
+  url "https://github.com/askgitdev/askgit/archive/v0.4.7.tar.gz"
+  sha256 "c4e2620ccf3f6913498b1bb9317a851b1eaa363f60f71095a156217e54bf4e31"
   license "MIT"
 
   depends_on "go" => :build
