@@ -1,8 +1,8 @@
-class Askgit < Formula
+class Mergestat < Formula
   desc "Query git repositories with SQL. Generate reports, perform status checks, analyze codebases. 🔍 📊"
-  homepage "https://askgit.com"
+  homepage "https://mergestat.com"
   version "v0.4.9"
-  url "https://github.com/askgitdev/askgit/archive/v0.4.9.tar.gz"
+  url "https://github.com/mergestat/mergestat/archive/v0.4.9.tar.gz"
   sha256 "658d4792013361c287abf66aa28fe0422edeae0cf8d333c7b00afd8c6bba2963"
   license "MIT"
 
@@ -11,6 +11,6 @@ class Askgit < Formula
 
   def install
     system "make"
-    bin.install ".build/askgit"
+    bin.install ".build/mergestat"
   end
 end
