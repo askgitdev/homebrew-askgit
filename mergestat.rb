@@ -1,9 +1,9 @@
 class Mergestat < Formula
   desc "Query git repositories with SQL. Generate reports, perform status checks, analyze codebases. 🔍 📊"
   homepage "https://mergestat.com"
-  version "v0.4.9"
-  url "https://github.com/mergestat/mergestat/archive/v0.4.9.tar.gz"
-  sha256 "658d4792013361c287abf66aa28fe0422edeae0cf8d333c7b00afd8c6bba2963"
+  version "v0.5.0"
+  url "https://github.com/mergestat/mergestat/archive/v0.5.0.tar.gz"
+  sha256 "0d4ba6a9583487fcee1baa3d13f1cf260991fc62df8a8a011d97ad949f9a026c"
   license "MIT"
 
   depends_on "go" => :build
