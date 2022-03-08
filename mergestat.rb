@@ -10,6 +10,7 @@ class Mergestat < Formula
   depends_on "go" => :build
   depends_on "cmake" => :build
   depends_on "make" => :build
+  depends_on "openssl@3" => :build
   depends_on "pkg-config" => :build
 
   def install
