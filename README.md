@@ -1,6 +1,6 @@
 ## homebrew-mergestat
 
-Homebrew formula for [`mergestat/mergestat`](https://github.com/mergestat/mergestat).
+Homebrew formula for [`mergestat/mergestat-lite`](https://github.com/mergestat/mergestat-lite).
 
 ```
 brew tap mergestat/mergestat
