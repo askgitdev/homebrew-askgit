@@ -2,7 +2,7 @@ class Mergestat < Formula
   desc "Query git repositories with SQL. Generate reports, perform status checks, analyze codebases. 🔍 📊"
   homepage "https://mergestat.com"
   version "v0.5.8"
-  url "https://github.com/mergestat/mergestat.git",
+  url "https://github.com/mergestat/mergestat-lite.git",
     tag: "v0.5.8",
     revision: "ee2c34250adada3ceae771177788f7f7439c64e3"
   license "MIT"
