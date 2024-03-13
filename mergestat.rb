@@ -3,7 +3,7 @@ class Mergestat < Formula
   homepage "https://mergestat.com"
   version "v0.6.2"
   url "https://github.com/mergestat/mergestat-lite.git",
-    tag: "v0.6.1",
+    tag: "v0.6.2",
     revision: "5858dcafdee463ba29540ab75538666478c828dd"
   license "MIT"
 
